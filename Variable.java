@@ -10,6 +10,14 @@ public class Variable {
         //Float ge = 20.0002111; // Use to store Decimal upto 7 decimal points
         long lg = 1374947597; //Use to store long interger valuse
         char character = 'C'; //only stores single character
-        Boolean bool; //Give only two outputs 0,1 or true,false
+       // Boolean bool; //Give only two outputs 0,1 or true,false
+        System.out.println(a);
+        System.out.println(name);
+        System.out.println(pin);
+        System.out.println(bit);
+        System.out.println(sh);
+        System.out.println(lg);
+        System.out.println(character);
+        //System.out.println(bool);
     }
 }
