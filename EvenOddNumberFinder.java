@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Java learning Day
 public class EvenOddNumberFinder {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
